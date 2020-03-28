@@ -1,6 +1,35 @@
 # Routing Strategy based on Routing Protocols
 路由演算法及其策略
 
+# The real network architecture seems like this
+
+AS: Autonomous System
+
+                       Internet
+                          |
+                         ISP
+         ---------------------------------
+        |                                 |
+        |                                 |
+        |               AS-1              |
+        |    Building 1      Building 2   |
+        |                                 |
+        -----------------------------------
+                           |
+                           |
+                          WAN
+                       /   |   \   
+                      /    |    \
+                     /     |     \
+          --------------------    \    
+          |       /        |  |    \
+          |     fw         |  |     \
+               /  AS-2    fw  |    AS-3   
+          | f1----POTS----f14 |            
+          |                   |
+          ---------------------
+
+
 # Graphic of Architecture 架構示意圖
 
 (mix of IGP & Static)
@@ -50,6 +79,6 @@ Whie there is no alternative routes exist in the network (lan), and there is onl
 
 # BGP 
 
-it allows peering betweens ASs (Admin Domain), and able to develop rules on ASs, instead of network-by-network basis.
+it allows peering betweens ASs (Admin Domain or Autonomous System), and able to develop rules on ASs, instead of network-by-network basis.
 
 
