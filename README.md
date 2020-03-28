@@ -54,24 +54,25 @@ see AS-3 inside box below
 # Fuction Areas Design
 
 
-      FA-TPE
-      
-         sw --- R 
-                 \                                  floor 8
-                  \                                   |
-                   \                                  |
-                           
-                      FA   ----  R -- gw ----------- SW ----------- floor 14
-                                                      
-                                                      |
-                     /                                |
-                    /                               floor 7
-                   / 
-              FA-Taichung
-                R
-                |
-                sw
-                
+     - FA-TPE --
+    |           |                   ---------------------------------------------
+    |    sw --- R                   |                                            |
+    |           | \                 |               floor 8                      |
+     ----------    \                |                 |                          |
+                    \               |                 |                          |
+                   --------         |                                            |
+                   |  FA  |   ----  R -- gw --------- SW ----------- floor 14    |
+                   --------         |                                            |
+                      /             |                  |                         |
+                     /              |                  |                         |
+                    /               |                floor 7                     |
+                   /                |                                            |
+                  /                 |                                            |
+            - FA-Taichung--          --------------------------------------------
+           |       R       |
+           |       |       |
+           |       sw      |
+           -----------------     
 
 
 # Graphic of Architecture 架構示意圖
