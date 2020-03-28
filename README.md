@@ -32,7 +32,7 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 7. Redundancy (protection from service interruption, degree of service consitency)
 
-# Choices of Strategies (Evaluation of Dynamic Protocols) 
+# Choices of Strategies (Evaluation of Dynamic Routes) 
 
 * BGP, Border Gateway Protocols-4
 
