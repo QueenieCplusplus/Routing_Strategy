@@ -121,7 +121,7 @@ While Routing Protocols are not needed, then use Static Routes. It is apply to t
 
 # Difference between Static & Dynamic Routes
 
-Whie there is no alternative routes exist in the network (lan), and there is only one route out of an area, then Static Routes is recommended to apply under this circumstance.
+While there is no alternative routes exist in the network (lan), and there is only one route out of an area, then Static Routes is recommended to apply under this circumstance.
 
 # BGP 
 
@@ -138,6 +138,7 @@ it allows peering betweens ASs (Admin Domain or Autonomous System), and able to 
 # PPP, Point to Point Protocol
 
 (to do)
+
 
 
 
