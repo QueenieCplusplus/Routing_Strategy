@@ -48,4 +48,8 @@ While Routing Protocols are not needed, then use Static Routes. It is apply to t
 
 Whie there is no alternative routes exist in the network (lan), and there is only one route out of an area, then Static Routes is recommended to apply under this circumstance.
 
+# BGP 
+
+it allows peering betweens ASs (Admin Domain), and able to develop rules on ASs, instead of network-by-network basis.
+
 
