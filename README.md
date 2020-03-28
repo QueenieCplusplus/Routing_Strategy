@@ -32,12 +32,16 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 7. Redundancy (protection from service interruption, degree of service consitency)
 
-# Choices of Strategies (Evaluation of Protocols)
+# Choices of Strategies (Evaluation of Protocols) of IGP & EGP
 
-* BGP
+* BGP, Border Gateway Protocols-4
 
-* RIP
+* RIP, Routing Information Protocol
 
-* OSPF
+* OSPF, Open Shortest Path First Protocol
 
-* Static Routes
+# Static Routes Concept
+
+While Routing Protocols are not needed, then use Static Routes.
+
+
