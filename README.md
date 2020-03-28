@@ -34,11 +34,11 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 # Choices of Strategies (Evaluation of Dynamic Routes) 
 
-* BGP, Border Gateway Protocols-4
+* BGP, Border Gateway Protocols-4 (EGP)
 
-* RIP, Routing Information Protocol
+* RIP, Routing Information Protocol (IGP)
 
-* OSPF, Open Shortest Path First Protocol
+* OSPF, Open Shortest Path First Protocol (IGP)
 
 # Static Routes Concept
 
