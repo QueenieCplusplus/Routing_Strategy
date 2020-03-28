@@ -31,3 +31,13 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 6. Hierarchy (degrees of connectedness & sizes of network areas)
 
 7. Redundancy (protection from service interruption, degree of service consitency)
+
+# Choices of Strategies
+
+* BGP
+
+* RIP
+
+* OSPF
+
+* Static Routes
