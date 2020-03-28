@@ -101,4 +101,11 @@ Whie there is no alternative routes exist in the network (lan), and there is onl
 
 it allows peering betweens ASs (Admin Domain or Autonomous System), and able to develop rules on ASs, instead of network-by-network basis.
 
+# RIP
+
+(to do)
+
+# OSPF
+
+(to do)
 
