@@ -4,6 +4,7 @@
 # The real network architecture seems like this
 
 AS: Autonomous System
+POTS: Plain Old Telephone Service
 
                        Internet
                           |
