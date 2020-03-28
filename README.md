@@ -30,6 +30,26 @@ AS: Autonomous System
           ---------------------
 
 
+see AS-3 inside box below
+
+
+           ------------------------
+          |                        |   
+          |                        |
+         --R---      hosts         |
+          |     \   /              |
+          |      \ /               |
+          |       R                |
+          |       |                |
+          |       FW               |
+          |       |                |
+          |       |                |
+          |       R                |
+          |      / \               |
+          |     /   hosts          |
+          |   hosts                |
+          ------------------------ |
+
 # Graphic of Architecture 架構示意圖
 
 (mix of IGP & Static)
