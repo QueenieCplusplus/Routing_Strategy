@@ -1,7 +1,7 @@
 # Routing Strategy based on Routing Protocols
 路由演算法及其策略
 
-# Graphic of Architecture
+# Graphic of Architecture 架構示意圖
 
 (mix of IGP & Static)
 
@@ -14,7 +14,7 @@
 
 
 
-# Chooses Basis
+# Chooses Basis 決策基礎點
 
 Typically when Routing Protocols are evaluated, it is on the basis of characterisics that somewhat from the overall design, such as 
 
@@ -32,7 +32,7 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 7. Redundancy (protection from service interruption, degree of service consitency)
 
-# Choices of Strategies (Evaluation of Dynamic Routes) 
+# Choices of Strategies (Evaluation of Dynamic Routes) 動態路由協定之演算法
 
 * BGP, Border Gateway Protocols-4 (EGP)
 
@@ -40,7 +40,7 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 * OSPF, Open Shortest Path First Protocol (IGP)
 
-# Static Routes Concept
+# Static Routes Concept 靜態路由
 
 While Routing Protocols are not needed, then use Static Routes. It is apply to tub area.
 
