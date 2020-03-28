@@ -42,6 +42,6 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 # Static Routes Concept
 
-While Routing Protocols are not needed, then use Static Routes.
+While Routing Protocols are not needed, then use Static Routes. It is apply to tub area.
 
 
