@@ -1,5 +1,20 @@
 # Routing Strategy based on Routing Protocols
-路由演算法及其策略
+
+   路由演算法及其策略
+   
+   A Router is used to route traffic between 2 remote networks.
+   
+    
+                                        (WG)
+                                         |
+                                      Segment3
+                                         |
+     (WG) hosts ----- Segement1 ----- R -- R -- R ---- Segement2 ---- hosts (WG)
+                                              |
+                                           Segment4
+                                              |
+                                             (WG)
+   
 
 # The real network architecture seems like this
 
