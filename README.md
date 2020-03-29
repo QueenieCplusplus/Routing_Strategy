@@ -119,6 +119,9 @@ Typically when Routing Protocols are evaluated, it is on the basis of characteri
 
 While Routing Protocols are not needed, then use Static Routes. It is apply to tub area.
 
+see =>
+https://github.com/QueenieCplusplus/Static_Routing
+
 # Difference between Static & Dynamic Routes
 
 While there is no alternative routes exist in the network (lan), and there is only one route out of an area, then Static Routes is recommended to apply under this circumstance.
