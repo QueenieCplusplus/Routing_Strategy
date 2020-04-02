@@ -147,11 +147,11 @@ it allows peering betweens ASs (Admin Domain or Autonomous System), and able to 
 
 https://github.com/QueenieCplusplus/IGP_n_BGP
 
-# RIP
+# RIP (Dynamic)
 
 https://github.com/QueenieCplusplus/RIP
 
-# OSPF
+# OSPF (Dynamic)
 
 https://github.com/QueenieCplusplus/OSPF
 
